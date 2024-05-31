@@ -122,7 +122,7 @@ export default function Component() {
   );
 }
 
-function BoltIcon(props) {
+function BoltIcon(props: any) {
   return (
     <svg
       {...props}
@@ -142,7 +142,7 @@ function BoltIcon(props) {
   );
 }
 
-function CpuIcon(props) {
+function CpuIcon(props: any) {
   return (
     <svg
       {...props}
@@ -170,7 +170,7 @@ function CpuIcon(props) {
   );
 }
 
-function MoveHorizontalIcon(props) {
+function MoveHorizontalIcon(props: any) {
   return (
     <svg
       {...props}
@@ -191,7 +191,7 @@ function MoveHorizontalIcon(props) {
   );
 }
 
-function RocketIcon(props) {
+function RocketIcon(props: any) {
   return (
     <svg
       {...props}
@@ -213,7 +213,7 @@ function RocketIcon(props) {
   );
 }
 
-function ShieldCheckIcon(props) {
+function ShieldCheckIcon(props: any) {
   return (
     <svg
       {...props}
@@ -233,7 +233,7 @@ function ShieldCheckIcon(props) {
   );
 }
 
-function SparklesIcon(props) {
+function SparklesIcon(props: any) {
   return (
     <svg
       {...props}
@@ -256,7 +256,7 @@ function SparklesIcon(props) {
   );
 }
 
-function CombineIcon(props) {
+function CombineIcon(props: any) {
   return (
     <svg
       {...props}
@@ -280,7 +280,7 @@ function CombineIcon(props) {
   );
 }
 
-function InfoIcon(props) {
+function InfoIcon(props: any) {
   return (
     <svg
       {...props}
@@ -301,7 +301,7 @@ function InfoIcon(props) {
   );
 }
 
-function MergeIcon(props) {
+function MergeIcon(props: any) {
   return (
     <svg
       {...props}
@@ -322,7 +322,7 @@ function MergeIcon(props) {
   );
 }
 
-function WorkflowIcon(props) {
+function WorkflowIcon(props: any) {
   return (
     <svg
       {...props}
