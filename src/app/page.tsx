@@ -1,4 +1,4 @@
-import Hero from "@/components/HomeLandingPageCore/hero";
+import Hero from "@/components/HomeLandingPageCore/Hero";
 import Features from "@/components/HomeLandingPageCore/Features";
 import Pricing from "@/components/HomeLandingPageCore/Pricing";
 import RevalText from "@/components/HomeLandingPageCore/RevalText";
