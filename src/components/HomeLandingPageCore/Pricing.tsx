@@ -12,7 +12,7 @@ export default function Component() {
     <div className="bg-gradient-to-r from-[#223344] via-[#112233] to-[#001122] text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="text-center">
-          <h2 className="text-4xl font-extrabold text-white sm:text-5xl sm:tracking-tight lg:text-6xl">
+          <h2 className="text-4xl font-extrabold text-white leading-[3rem] sm:text-5xl sm:tracking-tight lg:text-6xl">
             Simple pricing for{" "}
             <span className="bg-[#FF6600] p-1">everyone</span>
           </h2>

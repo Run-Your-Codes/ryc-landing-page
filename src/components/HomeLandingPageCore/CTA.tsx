@@ -6,11 +6,11 @@ export default function CTA() {
     <section className="w-full py-12 bg-gradient-to-r from-[#223344] via-[#112233] to-[#001122] text-white md:py-24 lg:py-32">
       <div className="container grid items-center gap-6 px-4 md:px-6 lg:grid-cols-2 lg:gap-10">
         <div className="">
-          <h2 className="text-3xl mb-12 font-bold tracking-tighter md:text-4xl/tight">
+          <h2 className="text-3xl mb-4 md:mb-6 font-bold tracking-tighter md:text-4xl/tight">
             <span className="bg-[#FF6600] p-1 rotate-50 ">Effortless</span> Code
             Deployment
           </h2>
-          <p className="max-w-[600px] mb-14  text-gray-100 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
+          <p className="max-w-[600px] mb-3 md:mb-6  text-gray-100 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
             Say goodbye to deployment headaches. Click here to streamline your
             process and deploy with ease!
           </p>

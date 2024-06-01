@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="container grid items-center gap-6 px-4 md:px-6 lg:grid-cols-2 lg:gap-12">
           <div className="space-y-4">
             <div className="space-y-2 mb-10">
-              <h1 className="mb-8 text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
+              <h1 className="mb-8 text-3xl font-bold leading-[2.5rem] sm:leading-[2rem] md:leading-[3.5rem] lg:leading-[4rem] tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
                 Deploy Your Code with Ease,
                 <span className="bg-[#FF6600] p-1 rotate-50 ">Anywhere</span>
               </h1>
